@@ -43,3 +43,5 @@ let fetchParam = {
     callback: (data: any) => { console.log(data) }
 };
 scheduleFetch(fetchParam)
+
+//test name change
